@@ -12,7 +12,7 @@
 # Full reference is available at:
 # http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 # ===================================================================
-
+# 为了测试git分支进行了修改
 logging:
   level:
     ROOT: DEBUG
