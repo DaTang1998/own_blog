@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.shdb.tang",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.shdb.tang",
+    "packageFolder": "com/shdb/tang",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWUxN2NjNDZhM2E5MWE3ZGQyYzQ5YWNhYjU3Yzg0OTg3MGE0MDgwNzNhMGQ3OTA5YWM2ODJiZjJjNDZlZjg0MmU3MmFiODM5MDlmYzlkOTRjYmZiN2MxNTg1ZjNlZDZmYmFlNDFkZmVkNDVlN2Y3MTRhYTAzNDgzZTE1NzJiN2M=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1585634238484,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "zh-tw", "en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
